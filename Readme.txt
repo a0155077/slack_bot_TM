@@ -2,7 +2,7 @@
 
 
 #You can get this file from the follwing links:
-https://github.com/a0155077/slack_bot_TM
+https://github.com/a0155077/slack_bot_TM.git
 
 
 #First please rename the 
